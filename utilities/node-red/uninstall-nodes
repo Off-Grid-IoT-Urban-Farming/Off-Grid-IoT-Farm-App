@@ -1,0 +1,3 @@
+node-red-stop
+cd ~/.node-red
+npm uninstall node-red-node-<name-of-node>
